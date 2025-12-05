@@ -4,7 +4,7 @@ import * as THREE from 'three';
 const PARTICLE_COUNT = 5000;
 const PARTICLE_SIZE = 0.05;
 const SPREAD_RADIUS = 15;
-const SPHERE_RADIUS = 4;
+const SPHERE_RADIUS = 3;
 const LERP_FACTOR = 0.1;
 
 // --- Globals ---
