@@ -7,9 +7,7 @@ Open your hand to scatter the particles into a nebula; close your hand into a fi
 
 ## 🎬 Preview
 
-> A demo video / GIF will be placed here.
-
-<!-- Replace this space with the recorded preview video/GIF when available -->
+https://github.com/user-attachments/assets/7bb12369-458d-44af-88d9-de89a84882d6
 
 ---
 
