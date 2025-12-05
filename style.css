@@ -15,14 +15,15 @@ body {
   display: block;
 }
 
-/* Optional: Show video for debugging if needed, currently hidden via inline style in HTML */
+/* Optional: Show video for debugging if needed */
 #input_video {
   position: absolute;
-  top: 0;
-  left: 0;
+  bottom: 10px;
+  left: 10px;
   width: 320px;
   height: 240px;
+  border-radius: 8px;
   z-index: 10;
-  opacity: 0.5;
+  /* opacity: 0.5; */
   transform: scaleX(-1); /* Mirror the video */
 }
