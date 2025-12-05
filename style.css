@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  overflow: hidden;
+  background-color: #000;
+}
+
+#canvas-container {
+  width: 100vw;
+  height: 100vh;
+  display: block;
+}
+
+/* Optional: Show video for debugging if needed, currently hidden via inline style in HTML */
+#input_video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 320px;
+  height: 240px;
+  z-index: 10;
+  opacity: 0.5;
+  transform: scaleX(-1); /* Mirror the video */
+}
